@@ -1,0 +1,25 @@
+{
+  "chain": [
+    {
+      "index": 0,
+      "nonce": 0,
+      "data": "{\"from\":\"Ralf\",\"to\":\"Florian\",\"amount\":10}",
+      "hash": "e71da28f22d19526b97699de7c37dfae1cc5f74fb87647698d48b63bf91c76d8",
+      "prev_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "index": 1,
+      "nonce": 0,
+      "data": "{\"from\":\"Florian\",\"to\":\"Central\",\"amount\":10}",
+      "hash": "15d7d21eb3025894eae5c6bd76a65e576266153789283029dcbde34a873d2fb3",
+      "prev_hash": "e71da28f22d19526b97699de7c37dfae1cc5f74fb87647698d48b63bf91c76d8"
+    },
+    {
+      "index": 2,
+      "nonce": 0,
+      "data": "{\"from\":\"Central\",\"to\":\"Wolfgang\",\"amount\":10}",
+      "hash": "327dee34936fe5c563f97740e61bf03527e05f8fb1dd3a48eb4932f94962afda",
+      "prev_hash": "15d7d21eb3025894eae5c6bd76a65e576266153789283029dcbde34a873d2fb3"
+    }
+  ]
+}
